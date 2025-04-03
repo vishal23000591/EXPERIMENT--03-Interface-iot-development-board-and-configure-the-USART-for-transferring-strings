@@ -73,10 +73,10 @@ UART transmits and receives data asynchronously, meaning there is no shared cloc
 
 12. Connect the STM board through the COM port, then upload the corresponding project ELF file while ensuring the board is in flash mode, and click on 'Start Program.' After the file download is complete, switch your board to run mode and press the reset button to see the output
   
-13.Open serial port utility and check the output 
+13.Open serial port utility 
 ![image](https://github.com/user-attachments/assets/c7fb1ee4-814b-4589-92c3-080442637265)
 
-14. check for execution of the output using run option.
+14. Check for execution of the output using run option.
 
 
 ## STM 32 CUBE PROGRAM :
